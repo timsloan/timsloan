@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello
+
+My name is Tim Sloan, my pronouns are he and him, and my role at [Paper Leaf](https://paper-leaf.com) is VP Development.
+
+I build useful software, structure and manage successful teams, and help others do the same.
+
+In the past, I've worked at [Lift Interactive](https://liftinteractive.com).
+
 
 <!--
 **timsloan/timsloan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
