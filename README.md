@@ -8,4 +8,4 @@ I build useful software, and help others do the same.
 
 In the past, I've worked at [Paper Leaf | ZGM](https://paper-leaf.com) and [Lift Interactive](https://liftinteractive.com).
 
-When I write code, I use Python and Django. I've been using Django since "pre-magic removal" (if you know you know). I also enjoy working with other Python technologies.
+When I write code, I use Python and Django. I've been using Django since "pre-magic removal" (if you know you know).
